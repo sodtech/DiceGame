@@ -1,0 +1,50 @@
+.body{
+background-color: #393E46;}
+
+.outCome {
+margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 4rem;
+    color: #4ECCA3;
+}
+
+.DiceContainer > h5 {
+
+
+padding: 30px;
+}
+
+.DiceContainer {
+width: 100%;
+height: auto;
+text-align: center;
+}
+
+.player{
+ font-size: 2rem;
+color: #4ECCA3;
+font-family: 'Indie Flower', cursive;
+}
+
+.diceImage1
+{
+max-width: 100%;
+height: auto;
+}
+
+.diceImage2
+{
+max-width: 100%;
+height: auto;
+}
+
+
+.footer{
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;}
+    
+    
+/* invicible css */
+
