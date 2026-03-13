@@ -64,6 +64,7 @@ height: auto;
 .diceImage1,
 .diceImage2 {
     max-width: 70%;
+    max-width: 50px;
 }
 
 .footer {
@@ -71,5 +72,6 @@ height: auto;
 }
 
 }
+
 
 
